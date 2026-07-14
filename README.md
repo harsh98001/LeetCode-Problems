@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/harsh98001/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/harsh98001/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/harsh98001/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/harsh98001/LeetCode-Problems/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harsh98001/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/harsh98001/LeetCode-Problems/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
