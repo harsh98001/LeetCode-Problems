@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harsh98001/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harsh98001/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harsh98001/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/harsh98001/LeetCode-Problems/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harsh98001/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harsh98001/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/harsh98001/LeetCode-Problems/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
