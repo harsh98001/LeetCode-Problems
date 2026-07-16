@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harsh98001/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harsh98001/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harsh98001/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [1323-maximum-69-number](https://github.com/harsh98001/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/harsh98001/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
