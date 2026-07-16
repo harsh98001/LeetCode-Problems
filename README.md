@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh98001/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/harsh98001/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/harsh98001/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/harsh98001/LeetCode-Problems/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harsh98001/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
