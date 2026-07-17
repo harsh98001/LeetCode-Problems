@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harsh98001/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/harsh98001/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0416-partition-equal-subset-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harsh98001/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/harsh98001/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0416-partition-equal-subset-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
