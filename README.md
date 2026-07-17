@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harsh98001/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harsh98001/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harsh98001/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/harsh98001/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1323-maximum-69-number](https://github.com/harsh98001/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 ## Linked List
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsh98001/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harsh98001/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/harsh98001/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/harsh98001/LeetCode-Problems/tree/master/1323-maximum-69-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/harsh98001/LeetCode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
