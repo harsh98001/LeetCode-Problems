@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh98001/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/harsh98001/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh98001/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harsh98001/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh98001/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/harsh98001/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh98001/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/harsh98001/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harsh98001/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/harsh98001/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0039-combination-sum) |
