@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/harsh98001/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0416-partition-equal-subset-sum](https://github.com/harsh98001/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0724-find-pivot-index](https://github.com/harsh98001/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsh98001/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsh98001/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/harsh98001/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
